@@ -1,1 +1,5 @@
-INA126P, 1
+Part Name, Number, Description
+INA126P, 1, instrumental amplifier
+BeagleBone Black, 1, to process data
+100 ohm, 1, Resistor
+1N751, 1, 5.1V Zener Diode
